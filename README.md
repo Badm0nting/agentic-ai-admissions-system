@@ -74,7 +74,7 @@ python api_server.py
 python main.py
 
 
-👤 Author & Contact
+# 👤 Author & Contact
 
 Indraneal Sajjankar
 
@@ -84,6 +84,6 @@ GitHub: @Badm0nting
 
 Email: nealann101169@gmail.com
 
-📄 License
+# 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
