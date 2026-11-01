@@ -1,8 +1,8 @@
-Agentic AI Admissions System
+# Agentic AI Admissions System
 
 An intelligent, multi-agent automated university admissions processing system powered by LangChain, LangGraph, and Python.
 
-📌 Overview
+# 📌 Overview
 
 The Agentic AI Admissions System automates student applicant routing, qualification assessment, and inquiry handling. Built using state-of-the-art multi-agent workflows, the system evaluates applicant data, verifies prerequisites, manages state transitions, and serves interactive responses via a FastAPI server.
 
@@ -18,7 +18,7 @@ Automated Response Generation: Context-aware admissions dynamic response agent (
 
 Tool Integration: Extensible tool framework (tools.py) for admissions evaluation and database lookup.
 
-🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 Core Framework: Python 3.9+, LangChain, LangGraph
 
@@ -28,7 +28,7 @@ State & Data Processing: Pydantic, Python Dataclasses
 
 Version Control: Git, GitHub
 
-📁 Project Architecture
+# 📁 Project Architecture
 
 agentic-ai-admissions-system/
 ├── api_server.py           # FastAPI backend server endpoints
@@ -41,7 +41,7 @@ agentic-ai-admissions-system/
 └── README.md               # Repository documentation
 
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 1. Prerequisites
 
